@@ -17,8 +17,7 @@ Take a screenshot of your command line showing that you have fetched and merged 
 and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
 
 Tim Ngeno
-
 # Douglas254
 # Bryan Theuri
 # lazarus mugo
-
+# Muli Ann
